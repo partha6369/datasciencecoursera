@@ -1,4 +1,4 @@
-he prototype for the function run_analysis is run_analysis(parameter = "BodyAcc", measure = "mean", axis = "X").
+The prototype for the function run_analysis is run_analysis(parameter = "BodyAcc", measure = "mean", axis = "X").
 
 parameter takes the values "BodyAcc", "GravityAcc", "BodyAccJerk".
 measure takes the values "mean", "std".
